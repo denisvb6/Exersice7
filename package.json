@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
